@@ -18,7 +18,7 @@
 *Все этапы есть в репозитории*  
   
 А вот, что получилось. Постарался передать на одной картинке всю основую информацию
-![summary]([/assets/images/one_pager_github.png](https://github.com/diaszharasov/profile-of-unscrupulous-supplier-in-public-procurement/blob/main/one_pager_github.png))
+![summary](one_pager_github.png)
 
 
 
